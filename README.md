@@ -1,4 +1,8 @@
 ## Hi there 👋
+# Hi, I'm Andy!
+### 🚀 Full Stack Developer | 👨‍💻 Tech Enthusiast | 💡 Lifelong Learner
+
+Welcome to my GitHub profile! I'm passionate about building scalable web applications, learning new technologies, and contributing to open-source projects.
 
 <!--
 **abart29/abart29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
