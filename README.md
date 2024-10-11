@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Andy!
 ### 🚀 Full Stack Developer | 👨‍💻 Tech Enthusiast | 💡 Lifelong Learner
 
