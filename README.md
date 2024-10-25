@@ -46,7 +46,10 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/pytest-0C4B33?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-59666C?style=for-the-badge&logo=mockito&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
+
 
 <!--
 **abart29/abart29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
